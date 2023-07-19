@@ -1,5 +1,5 @@
 # alarme_gas_Arduino
-A gas alarm, as the smoke approaches the sound gets higher. Made in arduino.
+A gas alarm, as the smoke approaches the sound gets louder and the color of the LED changes, green(quiet), yellow(warning) and red(danger). Made in arduino.
 
 
 Demo video:
